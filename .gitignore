@@ -1,0 +1,6 @@
+.DS_Store
+*.zip
+.tools/
+_bugs_chunks/
+bugs-check.png
+*.log
